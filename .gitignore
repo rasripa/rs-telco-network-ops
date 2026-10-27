@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.hypothesis/
+.bedrock_agentcore.yaml
+*.egg-info/
+.DS_Store
+.kiro/.cache/
